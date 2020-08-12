@@ -343,7 +343,7 @@
     //    * The folder name for this variant.
     //    */
     //   "variantName": "old-sdk",
-    // 
+    //
     //   /**
     //    * An informative description
     //    */
@@ -435,6 +435,12 @@
       "packageName": "my-toolchain",
       "projectFolder": "tools/my-toolchain",
       "reviewCategory": "tools"
+    },
+
+    {
+      "packageName": "webapp",
+      "projectFolder": "apps/webapp",
+      "reviewCategory": "production"
     }
   ]
 }
